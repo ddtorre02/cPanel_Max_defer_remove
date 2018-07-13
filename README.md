@@ -5,3 +5,7 @@ Use only in cPanel environment
 afterdownload do 
 
 chmox +x max_defer_remove.sh
+
+usage: 
+
+/root/max_defer_remove.sh $DOMAIN
